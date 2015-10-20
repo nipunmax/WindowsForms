@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\obj\x86\Debug\Party_planner.Form1.resources
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\obj\x86\Debug\Party_planner.Properties.Resources.resources
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\obj\x86\Debug\Party Planner.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\obj\x86\Debug\p213 - Party Planner (part 2).exe
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\bin\Debug\p213 - Party Planner (part 2).exe
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\bin\Debug\p213 - Party Planner (part 2).pdb
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\p213 - Party Planner (part 2)\obj\x86\Debug\p213 - Party Planner (part 2).pdb
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\Party Planner\obj\x86\Debug\p213 - Party Planner (part 2).exe
+C:\Users\USER\Desktop\p213 - Party Planner (part 2)\Party Planner\obj\x86\Debug\p213 - Party Planner (part 2).pdb

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\House\House\bin\Debug\House.exe.config
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.Form1.resources
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\bin\Debug\House.exe
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\bin\Debug\House.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.exe
+C:\Users\USER\documents\visual studio 2013\Projects\House\House\obj\Debug\House.pdb
