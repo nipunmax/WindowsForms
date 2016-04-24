@@ -1,0 +1,3 @@
+
+
+-classpath /u01/data_appl/apps/apps_st/comn/java/classes:/u01/data_appl/apps/apps_st/comn/java/lib/appsborg.zip:/u01/data_appl/apps/apps_st/comn/java/classes/xxntc/externallibs/*
